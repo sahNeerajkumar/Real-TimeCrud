@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RealTimeDataBase</string>
+    <string name="editNameInsert">Name</string>
+    <string name="EditEmailInsert">Email</string>
+    <string name="editNameUpdate">Name</string>
+    <string name="EditEmailUpdate">Email</string>
+    <string name="buttonInsert">Insert</string>
+    <string name="buttonUpdate">Update</string>
+
+
+</resources>
